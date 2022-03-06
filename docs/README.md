@@ -15,7 +15,7 @@ If you installed git you can clone the code to your machine, or download a ZIP o
 [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/AkshayIndraganti/Pig-Game.git
+git clone https://github.com/AkshayIndraganti/Esc-Project.git
 ```
 
 - Once the files are on your machine, open the \_\_ folder in [Visual Studio Code](https://code.visualstudio.com/).
